@@ -1,0 +1,207 @@
+{
+  "domain": "writingclarity",
+  "niche": "Scholarly Composition & Academic Writing Clarity",
+  "design_concept": "Editorial Monolith & Asymmetric Showcase",
+  "archetype_id": "editorial_monolith",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "writing_clarity_01_Euskarazko_hitz_egiteagatik_zigo.jpg",
+      "size_kb": 271.02,
+      "md5": "228aa992a88584f9a710c1d8822231ad",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Euskarazko hitz egiteagatik zigo",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "writing_clarity_02_Lab_Notebook.jpg",
+      "size_kb": 128.41,
+      "md5": "ea42f0c36de0d0468d2d098d36ba969e",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Lab Notebook",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "writing_clarity_03_Smiling_Student_Working_on_Assig.jpg",
+      "size_kb": 89.31,
+      "md5": "4bde1fbdf80b35a07506083e470fd2c6",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Smiling Student Working on Assig",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "writing_clarity_04_Student_writing_in_field_noteboo.jpg",
+      "size_kb": 110.66,
+      "md5": "6048e9ff2f8ed9c4a4de0b33ad6a6729",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Student writing in field noteboo",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "writing_clarity_05_Students_writing_notes.jpg",
+      "size_kb": 59.71,
+      "md5": "ef2f58964b7b78e1f57db103460544ea",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Students writing notes",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "writing_clarity_06_Writing-110764_1280.jpg",
+      "size_kb": 145.68,
+      "md5": "88a9e0a6106c0a8f4f1b1688284ed82d",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Writing 110764 1280",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "writing_clarity_07_2012_-_studying_in_Howard-Tilton.jpg",
+      "size_kb": 121.07,
+      "md5": "fcfb3c9db4d449a71ec36eec74323e4f",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: 2012 studying in Howard Tilton",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "writing_clarity_08_Abbot_Academy_student_studying_-.jpg",
+      "size_kb": 152.47,
+      "md5": "6666cc36789a00f651dfad0fda11d78f",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Abbot Academy student studying",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "writing_clarity_09_Arlington_State_College_Library_.jpg",
+      "size_kb": 236.94,
+      "md5": "3dd0d5bf599e6ee0eee0a3520a22e27f",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Arlington State College Library",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "writing_clarity_10_Overseas_students_studying_in_Au.jpg",
+      "size_kb": 157.6,
+      "md5": "57800bd269bb1339333e2a6eb72f3be2",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Overseas students studying in Au",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "writing_clarity_11_School_library_for_student.jpg",
+      "size_kb": 268.4,
+      "md5": "a0f622ebfe475177f5d74c82117d28de",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: School library for student",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "writing_clarity_12_Sias_Library_-_Students_Studying.jpg",
+      "size_kb": 174.75,
+      "md5": "b663949ce85b6ed68410ca7f73efd3d7",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Sias Library Students Studying",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "writing_clarity_13_Studying_Students_inside_of_Powe.jpg",
+      "size_kb": 177.46,
+      "md5": "f598e5ae36f2a69533786ed3fb85d447",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Studying Students inside of Powe",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "writing_clarity_14_Three_female_students_studying_i.jpg",
+      "size_kb": 244.91,
+      "md5": "e249253ba45172e078d243d7e1c352d1",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Three female students studying i",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "writing_clarity_15_2008-01-26_Editing_a_paper_-_31.jpg",
+      "size_kb": 98.52,
+      "md5": "5f771ee4ff6bdf2cf95317b84a780c74",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: 2008 01 26 Editing a paper 31",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "writing_clarity_16_A_pen_place_on_a_paper.jpg",
+      "size_kb": 79.72,
+      "md5": "7b800d31b1e7069c6391e5ffe9914dae",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: A pen place on a paper",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "writing_clarity_17_Students_studying_at_library_table.jpg",
+      "size_kb": 106.1,
+      "md5": "b963dbc8baa8028c560e66fe174e1dac",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Students studying at library table",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "writing_clarity_18_Filzstifte1.jpg",
+      "size_kb": 64.07,
+      "md5": "40a9f1c931b423478085fa1c56296648",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Filzstifte1",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "writing_clarity_19_Fountain_pen_writing_literacy_.jpg",
+      "size_kb": 103.88,
+      "md5": "8bdad4ef7fe30ef36c6ab60e88d15a57",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Fountain pen writing literacy",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "writing_clarity_20_Fountain_pen_writing_literacy_cr.jpg",
+      "size_kb": 147.87,
+      "md5": "99f29ac5fa32509fb25f3d79ddb612a3",
+      "description": "Artisanal Scholarly Composition & Academic Writing Clarity: Fountain pen writing literacy cr",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://writingclarity.com/sitemap.xml",
+    "robots": "https://writingclarity.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
